@@ -2,4 +2,5 @@ These are some notes!
 
 Here is note #1
 
-change wahooo 
+change wahooo
+And note #2
